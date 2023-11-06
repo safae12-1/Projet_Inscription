@@ -16,3 +16,5 @@ Supprimer role(DELETE):
 Application mobile:
 
 ![accueil](https://github.com/safae12-1/Projet_Inscription/assets/124156186/53e08326-9326-40da-abad-f10d3cf34a1d)
+liste des roles:
+![liste des roles](https://github.com/safae12-1/Projet_Inscription/assets/124156186/ab47b4e1-e258-4e49-a424-171bf41d0e35)
