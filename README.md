@@ -39,6 +39,10 @@ role a été modifié avec succes:
 
 ![rolebienmodifier](https://github.com/safae12-1/Projet_Inscription/assets/124156186/5a0d2bfc-445b-41d4-8acc-bcfda5b5be95)
 
+Supprimer role:
+
+![supprole1](https://github.com/safae12-1/Projet_Inscription/assets/124156186/d4aa5035-de50-4523-b58c-378176f63c18)
+
 ==>liste des filieres:
 
 ![listedefiliere](https://github.com/safae12-1/Projet_Inscription/assets/124156186/2f8317ce-3bca-4ed5-a6f4-a7f4b683ba85)
@@ -62,3 +66,6 @@ Modifier filière:
 filière a été modifié avec succes:
 
 ![modifiefilieresucces](https://github.com/safae12-1/Projet_Inscription/assets/124156186/c14751bd-dc5e-490d-8856-e905dfb81950)
+
+Supprimer filière:
+
