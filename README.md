@@ -43,3 +43,12 @@ role a été modifié avec succes:
 
 ![listedefiliere](https://github.com/safae12-1/Projet_Inscription/assets/124156186/2f8317ce-3bca-4ed5-a6f4-a7f4b683ba85)
 
+Ajouter filière:
+
+![ajouterfiliere](https://github.com/safae12-1/Projet_Inscription/assets/124156186/84586d73-561c-43dd-8232-6019a7cef55e)
+
+![ajouterfilire2](https://github.com/safae12-1/Projet_Inscription/assets/124156186/9c1d1848-1073-4242-9643-e89a00652e25)
+
+filière a été ajouté avec succèes
+
+![ajoutfiliersucces](https://github.com/safae12-1/Projet_Inscription/assets/124156186/cd94463e-d9cc-4368-9247-52eb422cc788)
