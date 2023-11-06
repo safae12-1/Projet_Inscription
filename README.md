@@ -52,3 +52,13 @@ Ajouter filière:
 filière a été ajouté avec succèes
 
 ![ajoutfiliersucces](https://github.com/safae12-1/Projet_Inscription/assets/124156186/cd94463e-d9cc-4368-9247-52eb422cc788)
+
+Modifier filière:
+
+![modifier1](https://github.com/safae12-1/Projet_Inscription/assets/124156186/16d06891-b174-4fed-85e3-13ab17f19609)
+
+![modif2](https://github.com/safae12-1/Projet_Inscription/assets/124156186/4de89a87-d3c9-4db6-95b6-514bde3c9c1d)
+
+filière a été modifié avec succes:
+
+![modifiefilieresucces](https://github.com/safae12-1/Projet_Inscription/assets/124156186/c14751bd-dc5e-490d-8856-e905dfb81950)
