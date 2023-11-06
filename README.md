@@ -21,10 +21,16 @@ liste des roles:
 
 ![liste des roles](https://github.com/safae12-1/Projet_Inscription/assets/124156186/ab47b4e1-e258-4e49-a424-171bf41d0e35)
 
-nouveau role:
+Ajouter role:
 
 ![nouveau role](https://github.com/safae12-1/Projet_Inscription/assets/124156186/625d0d74-fb04-4f3c-a99d-38606b55eccc)
 
 role a été ajouté avec succes:
 
 ![succes ajout](https://github.com/safae12-1/Projet_Inscription/assets/124156186/108fcf58-ac54-48a1-a839-2cb91de40a10)
+
+Modifier role:
+
+![modifier role](https://github.com/safae12-1/Projet_Inscription/assets/124156186/d519ed41-073b-4ce4-be8b-2971a4ee8bbb)
+
+
