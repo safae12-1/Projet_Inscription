@@ -6,7 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 
 import org.springframework.http.ResponseEntity;
-
+import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -68,12 +68,12 @@ public class RoleController {
 			}	
 	}
 	
-	/*@PostMapping("/{id}")
+	/*@DeleteMapping("/{id}")
 	public void deleteRole(@PathVariable Long id) {
 		Role role=roleService.findById(id);
 		roleService.delete(role);
 	}*/
-	@PostMapping("/{id}")
+	@DeleteMapping("/{id}")
 	public ResponseEntity<Object> deleteRole(@PathVariable Long id) {
 		Role role=roleService.findById(id);
 		if(role==null) {
