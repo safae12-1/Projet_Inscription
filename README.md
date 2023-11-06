@@ -33,4 +33,10 @@ Modifier role:
 
 ![modifier role](https://github.com/safae12-1/Projet_Inscription/assets/124156186/d519ed41-073b-4ce4-be8b-2971a4ee8bbb)
 
+![student](https://github.com/safae12-1/Projet_Inscription/assets/124156186/9908f157-c9af-476e-a3e1-7ae743b27a6e)
+
+role a été modifié avec succes:
+
+![rolebienmodifier](https://github.com/safae12-1/Projet_Inscription/assets/124156186/5a0d2bfc-445b-41d4-8acc-bcfda5b5be95)
+
 
