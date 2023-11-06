@@ -74,3 +74,9 @@ filière a été modifié avec succes:
 
 Supprimer filière:
 
+![supp1filiere](https://github.com/safae12-1/Projet_Inscription/assets/124156186/9d129015-9fa4-4175-87e6-18a8c2fae28b)
+
+filière a été supprimé avec succès:
+
+![supp2filiere](https://github.com/safae12-1/Projet_Inscription/assets/124156186/5d7da4be-80ec-4281-906f-7f8f66e71b02)
+
