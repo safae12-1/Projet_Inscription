@@ -43,6 +43,11 @@ Supprimer role:
 
 ![supprole1](https://github.com/safae12-1/Projet_Inscription/assets/124156186/d4aa5035-de50-4523-b58c-378176f63c18)
 
+role a été supprimé avec succes:
+
+![supprimer2role](https://github.com/safae12-1/Projet_Inscription/assets/124156186/4b55e2e6-0936-456e-80f5-3ec70afd6e10)
+
+
 ==>liste des filieres:
 
 ![listedefiliere](https://github.com/safae12-1/Projet_Inscription/assets/124156186/2f8317ce-3bca-4ed5-a6f4-a7f4b683ba85)
